@@ -1,3 +1,7 @@
+/*Monty Hall Problem Checker
+Created by WilliamBD
+in August 2018
+to simulate the Monty Hall Problem*/
 #include <cstdio>
 #include <cstdlib>
 #include <time.h>
